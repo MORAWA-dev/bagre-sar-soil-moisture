@@ -1,0 +1,3 @@
+season,month,model,predictable,within_bounds,mapped,paired,crop_contrast_pixels
+dry,2025-01,seasonal_ridge,92,85,85,70,50032
+wet,2025-06,seasonal_ridge,92,79,79,64,46169
